@@ -1,7 +1,9 @@
-# 2. Optimizing Fonts and Images
+# 4. Creating Layouts and Pages
 
-## Adding Custom Fonts with next/font
+## Creating Dashboard Routes Using File-System Routing
 
-## Adding Images with next/image
+## Understanding the Role of Folders and Files in Creating New Route Segments
 
-## Optimizing Fonts and Images in Next.js
+## Creating a Nested Layout for Shared Usage Across Multiple Dashboard Pages
+
+## Exploring Concepts: Colocation, Partial Rendering, and the Root Layout
