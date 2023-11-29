@@ -1,9 +1,9 @@
-# 6. Setting Up Your Database
+# 7. Fetching Data
 
-## Pushing Your Project to GitHub
+## Exploring Data Fetching Approaches: APIs, ORMs, SQL, etc
 
-## Setting Up a Vercel Account and Linking Your GitHub Repo for Instant Previews and Deployments
+## Enhancing Backend Resource Access Security with Server Components
 
-## Creating and Connecting Your Project to a Postgres Database
+## Understanding Network Waterfalls in Web Development
 
-## Seeding the Database with Initial Data
+## Implementing Parallel Data Fetching Using a JavaScript Pattern
