@@ -1,7 +1,7 @@
-# 2. CSS Styling
+# 2. Optimizing Fonts and Images
 
-## Adding a Global CSS File to Your Application
+## Adding Custom Fonts with next/font
 
-## Two Different Ways of Styling: Tailwind and CSS Modules
+## Adding Images with next/image
 
-## Conditionally Adding Class Names with the `clsx` Utility Package
+## Optimizing Fonts and Images in Next.js
