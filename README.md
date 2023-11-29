@@ -1,7 +1,9 @@
-# 5. Navigating Between Pages
+# 6. Setting Up Your Database
 
-## Using the next/link Component
+## Pushing Your Project to GitHub
 
-## Highlighting Active Links with the usePathname() Hook
+## Setting Up a Vercel Account and Linking Your GitHub Repo for Instant Previews and Deployments
 
-## Understanding Navigation in Next.js
+## Creating and Connecting Your Project to a Postgres Database
+
+## Seeding the Database with Initial Data
