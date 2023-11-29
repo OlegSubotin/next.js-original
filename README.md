@@ -1,9 +1,9 @@
-# 7. Fetching Data
+# 8. Static and Dynamic Rendering
 
-## Exploring Data Fetching Approaches: APIs, ORMs, SQL, etc
+## Understanding Static Rendering and Its Performance Benefits
 
-## Enhancing Backend Resource Access Security with Server Components
+## Exploring Dynamic Rendering and When to Choose It
 
-## Understanding Network Waterfalls in Web Development
+## Various Approaches to Implementing Dynamic Dashboards
 
-## Implementing Parallel Data Fetching Using a JavaScript Pattern
+## Simulating Slow Data Fetching to Assess Performance Impact
