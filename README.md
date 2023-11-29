@@ -1,4 +1,4 @@
-# 2. Optimizing Fonts and Images
+# 3. Optimizing Fonts and Images
 
 ## Adding Custom Fonts with next/font
 
