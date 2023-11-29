@@ -1,7 +1,7 @@
-# 1. Getting Started
+# 2. CSS Styling
 
-## Set up the project
+## Adding a Global CSS File to Your Application
 
-## Inspect the file-folder structure
+## Two Different Ways of Styling: Tailwind and CSS Modules
 
-## Run on localhost
+## Conditionally Adding Class Names with the `clsx` Utility Package
