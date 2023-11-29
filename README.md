@@ -1,9 +1,7 @@
-# 4. Creating Layouts and Pages
+# 5. Navigating Between Pages
 
-## Creating Dashboard Routes Using File-System Routing
+## Using the next/link Component
 
-## Understanding the Role of Folders and Files in Creating New Route Segments
+## Highlighting Active Links with the usePathname() Hook
 
-## Creating a Nested Layout for Shared Usage Across Multiple Dashboard Pages
-
-## Exploring Concepts: Colocation, Partial Rendering, and the Root Layout
+## Understanding Navigation in Next.js
