@@ -7,3 +7,6 @@
 ## Adding an Open Graph Image Using Metadata
 
 ## Including a Favicon Using Metadata
+
+Email: `user@nextmail.com`
+Password: `123456`
