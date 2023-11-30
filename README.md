@@ -1,5 +1,12 @@
-# 13. Handling Errors
+# 16. Adding Metadata
 
-## Utilizing the `error.tsx` File to Capture Errors in Route Segments and Display a Fallback UI
+## Understanding Metadata
 
-## Leveraging the notFound Function and not-found File to Manage 404 Errors (for Nonexistent Resources)
+## Exploring Types of Metadata
+
+## Adding an Open Graph Image Using Metadata
+
+## Including a Favicon Using Metadata
+
+Email: `user@nextmail.com`
+Password: `123456`
