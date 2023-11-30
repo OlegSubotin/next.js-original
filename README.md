@@ -1,9 +1,11 @@
-# 8. Static and Dynamic Rendering
+# 9. Steaming
 
-## Understanding Static Rendering and Its Performance Benefits
+## Understanding Streaming and Its Use Cases
 
-## Exploring Dynamic Rendering and When to Choose It
+## Implementing Streaming with loading.tsx and Suspense
 
-## Various Approaches to Implementing Dynamic Dashboards
+## Exploring Loading Skeletons and Their Purpose
 
-## Simulating Slow Data Fetching to Assess Performance Impact
+## Understanding Route Groups and Their Applicability
+
+## Deciding on the Placement of Suspense Boundaries in Your Application
