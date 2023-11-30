@@ -1,9 +1,11 @@
-# 7. Fetching Data
+# 9. Steaming
 
-## Exploring Data Fetching Approaches: APIs, ORMs, SQL, etc
+## Understanding Streaming and Its Use Cases
 
-## Enhancing Backend Resource Access Security with Server Components
+## Implementing Streaming with loading.tsx and Suspense
 
-## Understanding Network Waterfalls in Web Development
+## Exploring Loading Skeletons and Their Purpose
 
-## Implementing Parallel Data Fetching Using a JavaScript Pattern
+## Understanding Route Groups and Their Applicability
+
+## Deciding on the Placement of Suspense Boundaries in Your Application
