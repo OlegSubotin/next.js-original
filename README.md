@@ -1,5 +1,7 @@
-# 13. Handling Errors
+# 14. Improving Accessibility
 
-## Utilizing the `error.tsx` File to Capture Errors in Route Segments and Display a Fallback UI
+## Implementing Accessibility Best Practices with eslint-plugin-jsx-a11y and Next.js
 
-## Leveraging the notFound Function and not-found File to Manage 404 Errors (for Nonexistent Resources)
+## Adding Server-Side Form Validation to Your Application
+
+## Utilizing the React useFormState Hook for Managing Form Errors and Providing User Feedback
