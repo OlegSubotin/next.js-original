@@ -1,5 +1,13 @@
-# 11. Adding Search and Pagination
+# 12. Mutating Data
 
-## Learning to Use Next.js APIs: searchParams, usePathname, and useRouter
+## Understanding React Server Actions and Their Usage for Data Mutation
 
-## Implementing Search and Pagination with URL Search Parameters
+## Working with Forms and Server Components
+
+## Best Practices for Utilizing the Native formData Object, Including Type Validation
+
+## Revalidating the Client Cache Using the revalidatePath API
+
+## Creating Dynamic Route Segments with Specific IDs
+
+## Utilizing React’s useFormStatus Hook for Optimistic Updates
