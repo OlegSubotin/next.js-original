@@ -1,7 +1,9 @@
-# 14. Improving Accessibility
+# 15. Adding Authentication
 
-## Implementing Accessibility Best Practices with eslint-plugin-jsx-a11y and Next.js
+## Understanding Authentication
 
-## Adding Server-Side Form Validation to Your Application
+## Adding Authentication to Your App with NextAuth.js
 
-## Utilizing the React useFormState Hook for Managing Form Errors and Providing User Feedback
+## Utilizing Middleware for User Redirection and Route Protection
+
+## Handling Pending States and Form Errors with React's useFormStatus and useFormState
