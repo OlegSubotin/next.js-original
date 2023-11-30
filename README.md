@@ -1,11 +1,5 @@
-# 9. Steaming
+# 10. Partial Prerendering (Optional)
 
-## Understanding Streaming and Its Use Cases
+## Understanding Partial Prerendering
 
-## Implementing Streaming with loading.tsx and Suspense
-
-## Exploring Loading Skeletons and Their Purpose
-
-## Understanding Route Groups and Their Applicability
-
-## Deciding on the Placement of Suspense Boundaries in Your Application
+## Exploring the Mechanism of Partial Prerendering
