@@ -1,11 +1,5 @@
-# 9. Steaming
+# 11. Adding Search and Pagination
 
-## Understanding Streaming and Its Use Cases
+## Learning to Use Next.js APIs: searchParams, usePathname, and useRouter
 
-## Implementing Streaming with loading.tsx and Suspense
-
-## Exploring Loading Skeletons and Their Purpose
-
-## Understanding Route Groups and Their Applicability
-
-## Deciding on the Placement of Suspense Boundaries in Your Application
+## Implementing Search and Pagination with URL Search Parameters
