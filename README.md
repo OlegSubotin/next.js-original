@@ -1,13 +1,5 @@
-# 12. Mutating Data
+# 13. Handling Errors
 
-## Understanding React Server Actions and Their Usage for Data Mutation
+## Utilizing the `error.tsx` File to Capture Errors in Route Segments and Display a Fallback UI
 
-## Working with Forms and Server Components
-
-## Best Practices for Utilizing the Native formData Object, Including Type Validation
-
-## Revalidating the Client Cache Using the revalidatePath API
-
-## Creating Dynamic Route Segments with Specific IDs
-
-## Utilizing React’s useFormStatus Hook for Optimistic Updates
+## Leveraging the notFound Function and not-found File to Manage 404 Errors (for Nonexistent Resources)
