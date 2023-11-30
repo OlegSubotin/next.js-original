@@ -1,5 +1,5 @@
-# 11. Adding Search and Pagination
+# 13. Handling Errors
 
-## Learning to Use Next.js APIs: searchParams, usePathname, and useRouter
+## Utilizing the `error.tsx` File to Capture Errors in Route Segments and Display a Fallback UI
 
-## Implementing Search and Pagination with URL Search Parameters
+## Leveraging the notFound Function and not-found File to Manage 404 Errors (for Nonexistent Resources)
