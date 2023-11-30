@@ -1,5 +1,5 @@
-# 10. Partial Prerendering (Optional)
+# 11. Adding Search and Pagination
 
-## Understanding Partial Prerendering
+## Learning to Use Next.js APIs: searchParams, usePathname, and useRouter
 
-## Exploring the Mechanism of Partial Prerendering
+## Implementing Search and Pagination with URL Search Parameters
