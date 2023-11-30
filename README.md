@@ -1,9 +1,9 @@
-# 15. Adding Authentication
+# 16. Adding Metadata
 
-## Understanding Authentication
+## Understanding Metadata
 
-## Adding Authentication to Your App with NextAuth.js
+## Exploring Types of Metadata
 
-## Utilizing Middleware for User Redirection and Route Protection
+## Adding an Open Graph Image Using Metadata
 
-## Handling Pending States and Form Errors with React's useFormStatus and useFormState
+## Including a Favicon Using Metadata
